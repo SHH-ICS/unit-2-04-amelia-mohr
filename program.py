@@ -20,4 +20,4 @@ for numbers in range(x,y):
         print(str(numbers) + " Buzz")
     else:
         print(numbers)
-        
+result = numbers
